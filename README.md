@@ -26,7 +26,7 @@ are exclusive to Massa to help make this possible:
 
 Here is a list of tools to easily build applications on the Massa blockchain:
 
-- [JS Client library](https://github.com/massalabs/massa-web3) to connect to the Massa blockchain from your applications.
+- [JS Client library](https://gitb.com/massalabs/massa-web3) to connect to the Massa blockchain from your applications.
 - [AssemblyScript](https://github.com/massalabs/massa-as-sdk) SDKs to write smart contracts.
 - [Examples of applications](https://github.com/massalabs/massa-sc-examples) built on Massa.
 - [Explorer](https://test.massa.net).
